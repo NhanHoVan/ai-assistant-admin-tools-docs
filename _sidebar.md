@@ -1,0 +1,6 @@
+- [Trang Chủ](README.md)
+- [Hướng Dẫn Cài Đặt](installation.md)
+- [Tính Năng Nổi Bật](features.md)
+- [Hướng Dẫn Cấu Hình](configuration.md)
+- [Prompt Mẫu (Mỹ Phẩm)](sample-prompts.md)
+- [Bản Quyền & Liên Hệ](license.md)
