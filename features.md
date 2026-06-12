@@ -27,6 +27,19 @@ Hỗ trợ các quản trị viên và biên tập viên tạo nội dung bài v
 *   **Tạo bài viết chuẩn SEO:** Tích hợp OpenAI viết bài dựa trên các yêu cầu tiêu đề, từ khóa mục tiêu, dàn bài,... với định dạng thẻ HTML chuẩn SEO.
 *   **Hàng đợi tạo bài viết (Generator Queue):** Các yêu cầu viết bài số lượng lớn hoặc tốn nhiều thời gian sẽ được đẩy vào hàng đợi và xử lý ngầm (sử dụng WP Cron), ngăn chặn tình trạng quá tải server hoặc gặp lỗi quá hạn thời gian thực thi (timeout).
 
+### 📝 Hướng Dẫn Sử Dụng Giao Diện AI Writer
+
+![Giao diện AI Writer](images/ai-write-screen.PNG)
+
+*   **Đối với Block Editor (Gutenberg):**
+    *   Truy cập màn hình viết bài mới.
+    *   Click vào biểu tượng **AI Writer** (hình khuôn mặt robot) ở góc trên bên phải thanh công cụ để mở bảng điều khiển Sidebar.
+    *   Điền mô tả yêu cầu nội dung bài viết, chọn ngôn ngữ và bấm **Tạo ngay (Create Now)** hoặc **Đưa vào hàng đợi (Put in queue)**.
+    *   Trong quá trình AI viết bài, màn hình soạn thảo và bàn phím sẽ được khóa an toàn để tránh thao tác sai lệch. Khi hoàn thành bài viết, trang sẽ tự động tải lại với nội dung chuẩn SEO đầy đủ.
+*   **Đối với Classic Editor (Trình soạn thảo cũ):**
+    *   Hộp công cụ **AI Writer** (Meta Box) sẽ hiển thị ở cột bên phải hoặc phía dưới của vùng soạn thảo.
+    *   Bạn có thể nhập yêu cầu và thực hiện tạo bài viết tương tự như trên.
+
 ---
 
 ## 3. Tùy Biến Trang Đăng Nhập (Custom Login)

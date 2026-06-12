@@ -84,7 +84,9 @@
 ---
 
 ## 5. Nhập Prompt Tạo Bài Viết Cụ Thể (Trang Soạn Thảo Bài Viết)
-*   **Vị trí:** Trang chỉnh sửa bài viết WordPress -> Hộp công cụ **ITE Software Plus** -> Ô **Add post description for AI here**.
+*   **Vị trí:**
+    *   **Đối với Gutenberg (Block Editor)**: Click vào biểu tượng khuôn mặt robot **AI Writer** ở góc trên cùng bên phải thanh công cụ để mở bảng điều khiển Sidebar.
+    *   **Đối với Classic Editor**: Hộp công cụ **AI Writer** ở cột bên phải hoặc phía dưới bài viết.
 *   **Chức năng:** Ra lệnh cụ thể cho AI để viết một bài viết cụ thể.
 *   **Prompt mẫu (tối ưu cho mỹ phẩm):**
     *   *Mẫu 1 (Đánh giá/Review sản phẩm):*
