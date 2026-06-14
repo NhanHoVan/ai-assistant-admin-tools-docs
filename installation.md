@@ -1,6 +1,6 @@
 # Hướng Dẫn Cài Đặt
 
-Để cài đặt và sử dụng plugin **ITE Software Plus**, bạn hãy thực hiện theo các bước đơn giản sau:
+Để cài đặt và sử dụng plugin **AI Assistant and Admin Tools**, bạn hãy thực hiện theo các bước đơn giản sau:
 
 ## 📥 Các Bước Cài Đặt
 
@@ -15,16 +15,16 @@
 ### Cách 2: Tải lên qua FTP hoặc File Manager
 1. Giải nén tệp `.zip` của plugin trên máy tính của bạn.
 2. Kết nối với máy chủ của bạn bằng FTP client (như FileZilla) hoặc công cụ File Manager của CPanel/DirectAdmin.
-3. Tải thư mục `ite-software-plus` lên thư mục `/wp-content/plugins/` của website WordPress.
+3. Tải thư mục `ai-assistant-admin-tools` lên thư mục `/wp-content/plugins/` của website WordPress.
 4. Truy cập trang quản trị WordPress, đi tới mục **Plugins** -> **Installed Plugins**.
-5. Tìm plugin **ITE Software Plus** trong danh sách và nhấp **Activate** (Kích hoạt).
+5. Tìm plugin **AI Assistant and Admin Tools** trong danh sách và nhấp **Activate** (Kích hoạt).
 
 ---
 
 ## ⚙️ Sau Khi Kích Hoạt
 
 Sau khi kích hoạt thành công:
-- Menu quản trị **ITE Software Plus** sẽ xuất hiện trong thanh menu bên trái của WordPress Admin.
+- Menu quản trị **AI Assistant and Admin Tools** sẽ xuất hiện trong thanh menu bên trái của WordPress Admin.
 - Hệ thống sẽ tự động khởi tạo các bảng cơ sở dữ liệu cần thiết để lưu trữ cấu hình, lịch sử chat và hàng đợi tạo bài viết.
 - Một tác vụ định kỳ (WP Cron) sẽ được lên lịch chạy hàng giờ để xử lý hàng đợi tạo bài viết bằng AI.
 

@@ -1,12 +1,12 @@
 # Hướng Dẫn Cấu Hình
 
-Sau khi cài đặt thành công plugin, bạn hãy truy cập vào menu **ITE Software Plus** trong WordPress Admin để bắt đầu thiết lập. Dưới đây là hướng dẫn chi tiết từng phần cấu hình.
+Sau khi cài đặt thành công plugin, bạn hãy truy cập vào menu **AI Assistant and Admin Tools** trong WordPress Admin để bắt đầu thiết lập. Dưới đây là hướng dẫn chi tiết từng phần cấu hình.
 
 ---
 
 ## ⚙️ 1. Cấu Hình Chung (General Settings)
 
-Truy cập **ITE Software Plus** -> **General Settings** để cài đặt các tùy chọn cơ bản:
+Truy cập **AI Assistant and Admin Tools** -> **General Settings** để cài đặt các tùy chọn cơ bản:
 
 *   **Activate assistant:** Tích chọn để kích hoạt hiển thị bong bóng Chatbot trợ lý ảo ở ngoài giao diện Frontend của website.
 *   **Customize login page & Login logo URL:** Bật tính năng tùy biến giao diện trang đăng nhập. Nhấn nút **Upload** để chọn logo thương hiệu từ thư viện media của WordPress.
@@ -19,7 +19,7 @@ Truy cập **ITE Software Plus** -> **General Settings** để cài đặt các 
 
 ## 🤖 2. Cấu Hình Trợ Lý Ảo (AI Assistant)
 
-Truy cập **ITE Software Plus** -> **AI Assistant**. Giao diện cấu hình được chia thành các tab chức năng sau:
+Truy cập **AI Assistant and Admin Tools** -> **AI Assistant**. Giao diện cấu hình được chia thành các tab chức năng sau:
 
 ### Tab: Cấu hình API (AI Settings)
 Thiết lập kết nối với nhà cung cấp dịch vụ AI:
@@ -30,8 +30,8 @@ Thiết lập kết nối với nhà cung cấp dịch vụ AI:
 ### Tab: Thiết lập Prompt (Prompts)
 Cấu hình câu lệnh hệ thống (System Prompts) điều hướng hành vi của AI:
 *   **Generate post:** Câu lệnh định hình phong cách viết bài của AI (mặc định: *Bạn là một chuyên gia viết nội dung SEO, sử dụng các thẻ HTML phù hợp và đảm bảo tối ưu SEO.*).
-*   **ITE Assistant:** Câu lệnh định hình tính cách và hành vi cho Chatbot. Bạn có thể sử dụng biến động `{assistant_name}` để đồng bộ với tên Trợ lý đã thiết lập.
-*   **ITE Assistant (Training Data):** Dữ liệu huấn luyện, cung cấp thông tin về sản phẩm, dịch vụ hoặc doanh nghiệp của bạn để chatbot sử dụng trả lời khách hàng. Bạn có thể dùng các biến động:
+*   **AI Assistant:** Câu lệnh định hình tính cách và hành vi cho Chatbot. Bạn có thể sử dụng biến động `{assistant_name}` để đồng bộ với tên Trợ lý đã thiết lập.
+*   **AI Assistant (Training Data):** Dữ liệu huấn luyện, cung cấp thông tin về sản phẩm, dịch vụ hoặc doanh nghiệp của bạn để chatbot sử dụng trả lời khách hàng. Bạn có thể dùng các biến động:
     *   `{assistant_name}`: Thay thế bằng tên Trợ lý đã đặt.
     *   `{language_label}`: Tự động chuyển đổi ngôn ngữ hiện tại của khách chat ("Tiếng Việt" hoặc "English").
 

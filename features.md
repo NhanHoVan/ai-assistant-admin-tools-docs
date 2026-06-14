@@ -1,6 +1,6 @@
 # Các Tính Năng Nổi Bật
 
-**ITE Software Plus** cung cấp một bộ giải pháp toàn diện giúp tối ưu hóa quản trị website, thu thập leads khách hàng, tạo nội dung tự động bằng trí tuệ nhân tạo và cá nhân hóa trải nghiệm đăng nhập thương hiệu.
+**AI Assistant and Admin Tools** cung cấp một bộ giải pháp toàn diện giúp tối ưu hóa quản trị website, thu thập leads khách hàng, tạo nội dung tự động bằng trí tuệ nhân tạo và cá nhân hóa trải nghiệm đăng nhập thương hiệu.
 
 ---
 

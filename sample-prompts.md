@@ -1,6 +1,6 @@
 # Hướng Dẫn & Prompt Mẫu (Website Mỹ Phẩm)
 
-Để giúp hệ thống AI hoạt động hiệu quả nhất trên website bán mỹ phẩm, chăm sóc da (skincare), bạn có thể tham khảo các prompt mẫu chất lượng cao dưới đây. Các mẫu này được thiết kế riêng cho từng ô cấu hình trong trang quản trị của **ITE Software Plus**.
+Để giúp hệ thống AI hoạt động hiệu quả nhất trên website bán mỹ phẩm, chăm sóc da (skincare), bạn có thể tham khảo các prompt mẫu chất lượng cao dưới đây. Các mẫu này được thiết kế riêng cho từng ô cấu hình trong trang quản trị của **AI Assistant and Admin Tools**.
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ## 3. Cấu Hình Vai Trò Trợ Lý Ảo Chatbot (Role Assistant)
-*   **Vị trí:** Cấu hình Prompt -> Hướng dẫn Prompt -> **Trợ lý ảo Chatbot (ITE Assistant)**
+*   **Vị trí:** Cấu hình Prompt -> Hướng dẫn Prompt -> **Trợ lý ảo Chatbot (AI Assistant)**
 *   **Chức năng:** Định hình tính cách và giọng điệu phản hồi của Chatbot khi chat trực tiếp với khách hàng ngoài Frontend.
 *   **Prompt mẫu (tối ưu cho mỹ phẩm):**
     ```text
@@ -40,7 +40,7 @@
 ---
 
 ## 4. Cấu Hình Dữ Liệu Huấn Luyện Trợ Lý Ảo (Assistant Training Data)
-*   **Vị trí:** Cấu hình Prompt -> Dữ liệu đào tạo cho AI -> **Trợ lý ảo Chatbot (ITE Assistant)**
+*   **Vị trí:** Cấu hình Prompt -> Dữ liệu đào tạo cho AI -> **Trợ lý ảo Chatbot (AI Assistant)**
 *   **Chức năng:** Cung cấp thông tin cửa hàng, thông tin sản phẩm, chính sách bán hàng để Chatbot tư vấn chính xác. Hỗ trợ biến `{language_label}`.
 *   **Prompt mẫu (tối ưu cho mỹ phẩm):**
     ```text
